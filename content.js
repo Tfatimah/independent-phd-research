@@ -15,14 +15,14 @@ window.RESEARCH_CONTENT = {
       theme:"Learning · Cognitive Delegation · Young Adults",
       status:"Completed exploratory study",
       href:"https://sweet-melomakarona-88f42a.netlify.app/",
-      paperHref:"docs/when-ai-thinks-with-us.pdf"
+      paperHref:"docs/Tasneem_Fatima_When_AI_Thinks_With_Us_Independent_Study.pdf"
     },
     {
       number:"02",
       title:"From Personal AI Routines to Shared Work",
       theme:"Human Agency · Knowledge · Organisational Continuity",
       status:"Independent research concept",
-      href:"docs/personal-ai-routines-to-shared-work.pdf"
+      href:"docs/Tasneem_Fatima_From_Personal_AI_Routines_to_Shared_Work_Independent_Concept.pdf"
     },
     {
       number:"03",
